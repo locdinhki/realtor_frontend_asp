@@ -1,9 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realtor_frontend_asp", "realtor_frontend_asp\realtor_frontend_asp.csproj", "{67657AEF-7F1F-47B3-B656-C6C22C932E8D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realtor_frontend_asp.Tests", "realtor_frontend_asp.Tests\realtor_frontend_asp.Tests.csproj", "{4A42A0C9-419D-4614-BFEC-F5961E7A032A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realtor_frontend_asp", "realtor_frontend_asp\realtor_frontend_asp.csproj", "{6F4A232A-C648-471D-808A-2348BB126507}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67657AEF-7F1F-47B3-B656-C6C22C932E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67657AEF-7F1F-47B3-B656-C6C22C932E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67657AEF-7F1F-47B3-B656-C6C22C932E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67657AEF-7F1F-47B3-B656-C6C22C932E8D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A42A0C9-419D-4614-BFEC-F5961E7A032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A42A0C9-419D-4614-BFEC-F5961E7A032A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A42A0C9-419D-4614-BFEC-F5961E7A032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A42A0C9-419D-4614-BFEC-F5961E7A032A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4A232A-C648-471D-808A-2348BB126507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4A232A-C648-471D-808A-2348BB126507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4A232A-C648-471D-808A-2348BB126507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4A232A-C648-471D-808A-2348BB126507}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
